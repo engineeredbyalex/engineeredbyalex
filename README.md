@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @engineeredbyalex
 - 🌱 I’m currently learning JavaScript and it's frameworks, focusing on ReactJs
-- 📫 How to reach me ? You can find me on my Instagram : @nusuntlaza || mihaialex26@gmail.com
+- 📫 How to reach me ? You can find me on my Instagram or my mail: @nusuntlaza || dev.lazarescu.alexandru@gmail.com
