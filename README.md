@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Alex, Front End Developer and Student.
-- 🌱 I’m building apps with NextJS 13
-- 📫 How to reach me ? You can find me on my website : alexlazarescu.com
+- 👋 Hi, I’m Alex, Full Stack Developer and Student.
+- 🌱 I’m building apps with manly using Mern Stack.
+- 📫 How to reach me ? You can find me on my website : alexlazarescu.com or my email dev.lazarescu.alexandru@gmail.com
