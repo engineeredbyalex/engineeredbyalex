@@ -49,7 +49,7 @@ I was always passionate about tech, but I never thought I would work in tech.
   For a quick response, DM me on LinkedIn or send me an email. 
 </p>
 <p>
-https://www.linkedin.com/in/alexandru-lazarescu-784031252/)https://www.linkedin.com/in/alexandru-lazarescu-784031252/
+https://www.linkedin.com/in/alexandru-lazarescu-784031252/
 </p>
 <p>
 dev.lazarescu.alexandru@gmail.com
