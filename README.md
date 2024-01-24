@@ -41,7 +41,17 @@ The Weeknd is my favorite artist.
 I was always passionate about tech, but I never thought I would work in tech.
 </p>
 
+
 <h1>
   ✉️ Contact
 </h1>
-For a quick response, DM me on LinkedIn or send me an email.
+<p>
+  For a quick response, DM me on LinkedIn or send me an email. 
+</p>
+<p>
+https://www.linkedin.com/in/alexandru-lazarescu-784031252/)https://www.linkedin.com/in/alexandru-lazarescu-784031252/
+</p>
+<p>
+dev.lazarescu.alexandru@gmail.com
+</p>
+
