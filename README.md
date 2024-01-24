@@ -5,7 +5,7 @@ Check out my website to learn more about me.
 Explore my blog, where I share insights and learnings, and follow my journey on Instagram and LinkedIn.
 
 📦 Toolbox
-Frontend Development: React, Next.js, TailwindCSS.
+Frontend Development: React, Next.js, TailwindCSS. </b>
 Version Control: Git.
 Backend Development: Next.js and MongoDB.
 Testing: Postman.
